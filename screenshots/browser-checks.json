@@ -1,0 +1,49 @@
+{
+  "calendarDownload": "C:\\Users\\SHUAIB\\Downloads\\Vishal-and-Vishakha-2026-12-04.ics",
+  "logs": [],
+  "venueLightbox": "1 / 2",
+  "width320": {
+    "client": 305,
+    "names": [
+      {
+        "right": 287,
+        "text": "Vishal",
+        "x": 18
+      },
+      {
+        "right": 287,
+        "text": "weds",
+        "x": 18
+      },
+      {
+        "right": 287,
+        "text": "Vishakha",
+        "x": 18
+      }
+    ],
+    "scroll": 305,
+    "viewport": 320
+  },
+  "share": {
+    "open": true,
+    "text": "Vishal weds Vishakha\n4 December 2026\nRajgharana Resort, Near Sai Dham, NH-709B, Delhi–Saharanpur Road, Shamli, Uttar Pradesh 247776\nHaldi: 3 December, 2:00 PM IST\nDJ Night: 3 December, Evening\nBaraat Departure: 4 December, 6:00 PM IST\nWe would love to celebrate with you!"
+  },
+  "copyResult": "Invitation details copied.",
+  "musicAfterStart": "true",
+  "musicAfterPause": "false",
+  "fallbackVideo": {
+    "introOpen": false
+  },
+  "accessibleReveal": "date-frame revealed",
+  "fallbackArt": "assets/web/venue-entrance.webp",
+  "static": {
+    "allTextPresent": true,
+    "canvasHidden": true,
+    "hiddenSections": 0
+  },
+  "keyboardReveal": "date-frame revealed",
+  "skip": {
+    "open": false,
+    "scrollLocked": false
+  }
+}
